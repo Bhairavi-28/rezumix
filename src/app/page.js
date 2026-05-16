@@ -203,6 +203,11 @@ const Home = () => {
                   Download Rezumix App
                 </button>
               </Link>
+              <Link href="/builder" className="w-full sm:w-auto">
+                <button className="w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 bg-blue-600/20 text-blue-300 border border-blue-500/30 font-medium rounded-xl hover:bg-blue-600/30 hover:border-blue-400/50 transition-all backdrop-blur-sm cursor-pointer text-sm sm:text-base touch-manipulation flex items-center justify-center gap-2">
+                  Build Resume from Scratch <ArrowRight className="w-4 h-4" />
+                 </button>
+              </Link>
             </motion.div>
 
             {/* Stats (Left Aligned now) */}

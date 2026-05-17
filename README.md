@@ -8,8 +8,6 @@
 
 **Rezumix** is a sophisticated full-stack AI application designed to bridge the gap between technical qualifications and psychological soft skills. By analyzing a user's resume and behavioral questionnaire responses, Rezumix leverages **Google's Gemini API** to predict personality traits using the industry-standard **OCEAN (Big Five) personality model**. It empowers users with deep psychological insights, personalized career trajectories, and targeted skill recommendations.
 
-> _“Your personality. Your potential. Rezumix.”_
-
 ---
 
 ## 📌 Table of Contents
@@ -234,10 +232,10 @@ Contributions make the open-source community an amazing place to learn, inspire,
 **Devansh Agrawal**
 
 🎓 B.Tech CSE, The ICFAI University, Raipur
-
 🧠 Full Stack & AI Developer
-
-🔗 [LinkedIn]() | 💻 [GitHub]() | 📧 agrawaldevansh27@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/thedevanshagrawal/) 
+💻 [GitHub](https://github.com/thedevanshagrawal)
+📧 Email: agrawaldevansh27@gmail.com
 
 ---
 
@@ -245,6 +243,4 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-```
-
-```
+> _“Your personality. Your potential. Rezumix.”_

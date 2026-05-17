@@ -19,12 +19,17 @@
   - [Prerequisites](#prerequisites)
   - [Installation Guide](#installation-guide)
   - [Environment Configuration](#environment-configuration)
-- [🔌 API Routes Overview](#-api-routes-overview)
+- [🔌 API Routes Overview](#-api-routes-overview-appapi)
+  - [Auth Routes](#-auth-routes)
+  - [Resume analysis](#-resume-analysis)
+  - [Questionnaire Routes](#-questionnaire-routes)
+  - [Personality Report](#-personality-report)
 - [🔐 Authentication & Security](#-authentication--security)
 - [🤖 Sample Gemini Prompt](#-sample-gemini-prompt)
 - [📈 Future Roadmap](#-future-roadmap)
 - [🤝 Contributing Guide](#-contributing-guide)
-- [👤 Author & License](#-author--license)
+- [👤 Author](#-author)
+- [📄 Licence](#-license)
 
 ---
 
@@ -231,11 +236,11 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 **Devansh Agrawal**
 
-🎓 B.Tech CSE, The ICFAI University, Raipur <br>
-🧠 Full Stack & AI Developer <br>
-🔗 [LinkedIn](https://www.linkedin.com/in/thedevanshagrawal/)  <br>
-💻 [GitHub](https://github.com/thedevanshagrawal) <br>
-📧 Email: agrawaldevansh27@gmail.com <br>
+🎓 B.Tech CSE, The ICFAI University, Raipur  
+🧠 Full Stack & AI Developer  
+🔗 [LinkedIn](https://www.linkedin.com/in/thedevanshagrawal/)  
+💻 [GitHub](https://github.com/thedevanshagrawal)  
+📧 Email: agrawaldevansh27@gmail.com  
 
 ---
 
